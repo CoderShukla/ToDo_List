@@ -28,5 +28,6 @@ A simple, user-friendly To-Do List application built with React. This applicatio
 * State Management: React State
 * Storage: Local Storage
 
-* Github Link Is : - 
+* Github Link Is : - https://github.com/CoderShukla/ToDo_List.git
+* With the help of this link you can access the repo
 
